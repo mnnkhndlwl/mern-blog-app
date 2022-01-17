@@ -1,0 +1,9 @@
+initially src me app.js or index.js chahiye or public me bas index.html baki sab bekar hai
+index.js me webvitals tha usse hta diya
+ab app.js me <div className="App"> iske andar jo bhi hai wo delete kardo
+src me phir topbar.css and topbar.jsx bnaya
+src me phir header.css and header.jsx bnaya or isko ham use karege home.jsx me
+ {/*// we use <> </> to use multiple components in our react app*/}
+
+
+
